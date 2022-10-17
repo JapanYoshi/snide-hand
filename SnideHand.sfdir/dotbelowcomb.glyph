@@ -1,0 +1,25 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 523
+Width: 0
+GlyphClass: 4
+Flags: MW
+HStem: -292 21G<-265 -239>
+VStem: -340 146<-267 -178>
+AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
+AnchorPoint: "cedilla2cedilla" -286 -260 basemark 0
+AnchorPoint: "acute2acute" 0 0 basemark 0
+AnchorPoint: "cedilla2cedilla" -286 20 mark 0
+AnchorPoint: "cedilla" -286 20 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-340 -186 m 0
+ -340 -170 -320 -152 -302 -152 c 0
+ -278 -152 -262 -160 -256 -168 c 0
+ -248 -178 -232 -190 -218 -200 c 0
+ -200 -212 -194 -226 -194 -256 c 0
+ -194 -278 -228 -292 -250 -292 c 0
+ -280 -292 -298 -272 -312 -254 c 0
+ -328 -236 -340 -218 -340 -186 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: uni0328
+Encoding: 808 808 526
+Width: 0
+GlyphClass: 4
+Flags: MW
+HStem: -366 106<-247 -207 -247 -199.5>
+VStem: -396 94<-201 -160 -201 -160>
+AnchorPoint: "ogonek2ogonek" -236 -322 basemark 0
+AnchorPoint: "cedilla2cedilla" 0 0 basemark 0
+AnchorPoint: "acute2acute" 0 0 basemark 0
+AnchorPoint: "ogonek2ogonek" -236 44 mark 0
+AnchorPoint: "ogonek" -236 44 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-196 30 m 0
+ -206 12 -212 8 -252 -44 c 0
+ -278 -80 -302 -132 -302 -188 c 0
+ -302 -214 -272 -260 -222 -260 c 0
+ -192 -260 -170 -258 -132 -250 c 0
+ -113 -246 -89 -242 -69 -242 c 0
+ -46 -242 -28 -248 -28 -266 c 0
+ -28 -325 -174 -366 -225 -366 c 0
+ -281 -366 -311 -350 -352 -312 c 0
+ -392 -278 -396 -251 -396 -200 c 0
+ -396 -120 -371 -58 -326 6 c 0
+ -312 26 -286 52 -276 64 c 0
+ -264 78 -247 86 -229 86 c 0
+ -223 86 -216 85 -210 82 c 0
+ -190 74 -186 48 -196 30 c 0
+EndSplineSet
+EndChar

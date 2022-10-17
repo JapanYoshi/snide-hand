@@ -1,0 +1,35 @@
+StartChar: one
+Encoding: 49 49 20
+Width: 343
+GlyphClass: 2
+Flags: MW
+HStem: -16 21G<234 251> 540 20G<220 242>
+VStem: 202 82<145 191 145 242>
+LayerCount: 2
+Fore
+SplineSet
+230 560 m 0
+ 254 560 264 550 276 536 c 0
+ 284 526 288 488 288 404 c 0
+ 288 380 288 342 286 290 c 0
+ 284 238 284 202 284 180 c 0
+ 284 110 288 74 296 66 c 0
+ 304 58 306 46 306 24 c 0
+ 306 10 306 4 302 2 c 0
+ 296 -4 256 -16 246 -16 c 0
+ 222 -16 202 -2 202 20 c 0
+ 202 88 194 118 202 242 c 0
+ 206 316 210 350 210 370 c 0
+ 210 386 208 400 206 410 c 1
+ 196 404 178 390 136 350 c 0
+ 96 310 74 288 64 288 c 0
+ 56 288 42 302 36 316 c 0
+ 32 324 30 332 30 340 c 0
+ 30 348 32 350 36 358 c 0
+ 70 410 112 440 144 470 c 0
+ 174 500 190 514 196 528 c 0
+ 206 552 210 560 230 560 c 0
+EndSplineSet
+Substitution2: "'sups' +TgowZDBNZYdbVwAA lookup 4 +MLUw1jDGMPww1jDr" onesuperior
+Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" onesuperior
+EndChar

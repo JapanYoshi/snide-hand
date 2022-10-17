@@ -1,0 +1,22 @@
+StartChar: uni1FFD
+Encoding: 8189 8189 1052
+Width: 236
+GlyphClass: 4
+Flags: MW
+HStem: 884 20G<163.5 185>
+VStem: 25 183
+AnchorPoint: "acute2acute" 120 591 mark 0
+AnchorPoint: "acute" 120 591 mark 0
+LayerCount: 2
+Fore
+SplineSet
+180 904 m 0
+ 190 904 204 896 206 886 c 0
+ 216 852 192 804 148 740 c 0
+ 123 705 80 645 47 645 c 0
+ 42 645 38 646 34 648 c 0
+ 12 660 36 702 48 724 c 0
+ 64 756 84 790 102 824 c 0
+ 115 848 147 904 180 904 c 0
+EndSplineSet
+EndChar

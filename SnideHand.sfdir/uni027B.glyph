@@ -1,0 +1,45 @@
+StartChar: uni027B
+Encoding: 635 635 430
+Width: 464
+GlyphClass: 4
+Flags: MW
+HStem: -362 98<444.5 467> 16 95<180 201.5 180 211.5>
+VStem: 311 80 319 85<-32 96.5> 325 91<-202 -188.5>
+AnchorPoint: "acute" 238 579 basechar 0
+AnchorPoint: "ogonek" 449 -319 basechar 0
+AnchorPoint: "cedilla" 238 67 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+315 65 m 1xc8
+ 301 53 284 41 269 35 c 0xc8
+ 241 21 220 16 203 16 c 0
+ 136 16 123 27 79 82 c 0
+ 70 92 51 132 51 160 c 0
+ 51 181 60 196 87 196 c 0
+ 108 196 125 187 135 168 c 0
+ 143 143 165 111 195 111 c 0
+ 208 111 223 117 237 124 c 0
+ 294 154 311 194 311 287 c 0
+ 311 335 315 386 313 422 c 0
+ 311 458 304 483 304 502 c 0
+ 304 517 307 536 334 536 c 0
+ 366 536 391 498 391 472 c 0xe0
+ 391 455 393 348 395 295 c 0
+ 399 187 404 113 404 80 c 0xd0
+ 404 33 410 37 412 -18 c 0
+ 414 -47 416 -140 416 -178 c 0
+ 416 -226 416 -264 473 -264 c 0
+ 483 -264 492 -262 499 -258 c 0
+ 532 -235 545 -226 556 -218 c 0
+ 568 -208 581 -201 604 -201 c 0
+ 615 -201 619 -212 619 -243 c 0
+ 619 -267 604 -290 562 -319 c 0
+ 518 -349 490 -362 444 -362 c 0
+ 368 -362 325 -298 325 -231 c 0
+ 325 -146 321 -129 319 -32 c 0
+ 319 -19 317 24 315 65 c 1xc8
+EndSplineSet
+Substitution2: "'sups' +TgowZDBNZYdbVwAA lookup 4 +MLUw1jDGMPww1jDr" uni02B5
+Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" uni02B5
+EndChar

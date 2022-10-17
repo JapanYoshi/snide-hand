@@ -1,0 +1,26 @@
+StartChar: acutecomb
+Encoding: 769 769 511
+Width: 0
+GlyphClass: 4
+Flags: MW
+HStem: 896 244<-395.5 -153.5>
+VStem: -430 304<913.5 1114.5>
+AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
+AnchorPoint: "cedilla2cedilla" 0 0 basemark 0
+AnchorPoint: "acute2acute" -294 1142 basemark 0
+AnchorPoint: "acute2acute" -294 882 mark 0
+AnchorPoint: "acute" -294 882 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-218 1120 m 0
+ -200 1134 -182 1140 -166 1140 c 0
+ -141 1140 -126 1127 -126 1102 c 0
+ -126 1059 -320 921 -368 900 c 0
+ -374 897 -382 896 -389 896 c 0
+ -402 896 -430 905 -430 922 c 0
+ -430 928 -432 940 -414 958 c 0
+ -400 972 -359 1007 -319 1039 c 0
+ -281 1070 -244 1102 -218 1120 c 0
+EndSplineSet
+EndChar
