@@ -1,0 +1,14 @@
+StartChar: Gbreve
+Encoding: 286 286 342
+Width: 680
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "cedilla" 252 -182 basechar 0
+AnchorPoint: "ogonek" 616 -108 basechar 0
+AnchorPoint: "acute" 394 1284 basechar 0
+LayerCount: 2
+Fore
+Refer: 270 774 N 1 0 0 1 610 58 2
+Refer: 194 71 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

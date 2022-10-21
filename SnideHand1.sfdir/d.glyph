@@ -1,0 +1,33 @@
+StartChar: d
+Encoding: 100 100 235
+Width: 586
+VWidth: 1828
+Flags: MW
+AnchorPoint: "cedilla" 308 2 basemark 0
+AnchorPoint: "ogonek" 510 0 basemark 0
+AnchorPoint: "acute" 354 942 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+252 432 m 3
+ 178 432 128 328 128 222 c 3
+ 128 144 136 102 192 102 c 3
+ 246 102 324 248 380 354 c 1
+ 360 374 310 432 252 432 c 3
+42 182 m 3
+ 42 346 98 520 264 520 c 3
+ 316 520 356 496 388 460 c 1
+ 378 602 370 680 370 794 c 3
+ 370 842 390 898 424 898 c 3
+ 474 898 478 834 478 784 c 3
+ 478 762 482 708 482 618 c 3
+ 482 436 494 350 518 178 c 0
+ 524 136 530 60 542 28 c 0
+ 546 20 552 16 552 6 c 3
+ 552 -32 520 -36 506 -36 c 3
+ 436 -36 448 92 418 246 c 1
+ 322 84 280 2 176 2 c 3
+ 102 2 42 92 42 182 c 3
+EndSplineSet
+Validated: 1
+EndChar

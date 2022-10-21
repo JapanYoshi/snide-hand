@@ -1,0 +1,13 @@
+StartChar: Dcroat
+Encoding: 272 272 465
+Width: 772
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 404 1024 basechar 0
+AnchorPoint: "ogonek" 564 220 basechar 0
+AnchorPoint: "cedilla" 430 114 basechar 0
+LayerCount: 2
+Fore
+Refer: 139 208 N 1 0 0 1 10 0 2
+Validated: 32769
+EndChar

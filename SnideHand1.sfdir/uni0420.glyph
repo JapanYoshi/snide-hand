@@ -1,0 +1,13 @@
+StartChar: uni0420
+Encoding: 1056 1056 640
+Width: 606
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 292 934 basemark 0
+AnchorPoint: "cedilla" 176 42 basemark 0
+LayerCount: 2
+Fore
+Refer: 203 80 N 1 0 0 1 0 0 3
+Validated: 32769
+Decomposition: "P"
+EndChar

@@ -1,0 +1,12 @@
+StartChar: dcaron
+Encoding: 271 271 333
+Width: 732
+VWidth: 2000
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 437 700 N 1 0 0 1 480 0 2
+Refer: 235 100 N 1 0 0 1 0 0 2
+Validated: 32769
+Decomposition: "d'"
+EndChar

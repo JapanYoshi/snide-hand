@@ -1,0 +1,11 @@
+StartChar: wcircumflex
+Encoding: 373 373 394
+Width: 682
+VWidth: 2000
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 258 770 N 1 0 0 1 634 -314 2
+Refer: 231 119 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

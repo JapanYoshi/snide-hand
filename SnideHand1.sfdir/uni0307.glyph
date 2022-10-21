@@ -1,0 +1,21 @@
+StartChar: uni0307
+Encoding: 775 775 271
+Width: 0
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" -234 882 mark 0
+AnchorPoint: "acute" -234 1142 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-310 1054 m 3
+ -310 1070 -290 1088 -272 1088 c 3
+ -248 1088 -232 1080 -226 1072 c 0
+ -218 1062 -202 1050 -188 1040 c 0
+ -170 1028 -164 1014 -164 984 c 3
+ -164 962 -198 948 -220 948 c 3
+ -250 948 -268 968 -282 986 c 0
+ -298 1004 -310 1022 -310 1054 c 3
+EndSplineSet
+Validated: 1
+EndChar

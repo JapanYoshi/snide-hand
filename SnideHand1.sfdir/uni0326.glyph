@@ -1,0 +1,12 @@
+StartChar: uni0326
+Encoding: 806 806 967
+Width: 0
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "cedilla" -286 60 mark 0
+AnchorPoint: "cedilla" -286 -290 basemark 0
+LayerCount: 2
+Fore
+Refer: 437 700 N 1 0 0 1 -402 -902 2
+Validated: 32769
+EndChar

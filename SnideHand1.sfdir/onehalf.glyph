@@ -1,0 +1,14 @@
+StartChar: onehalf
+Encoding: 189 189 1065
+Width: 993
+VWidth: 1828
+Flags: W
+HStem: -30 21G<292.5 316.5> 790 57<789.193 842.878>
+VStem: 240 72<0.011322 80.6875>
+LayerCount: 2
+Fore
+Refer: 1068 8260 N 1 0 0 1 210 0 2
+Refer: 130 178 N 1 0 0 1 561 -480 2
+Refer: 133 185 N 1 0 0 1 0 0 2
+Validated: 32769
+EndChar

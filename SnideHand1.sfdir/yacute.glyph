@@ -1,0 +1,14 @@
+StartChar: yacute
+Encoding: 253 253 320
+Width: 582
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 302 872 basechar 0
+AnchorPoint: "ogonek" 424 -274 basechar 0
+AnchorPoint: "cedilla" 304 -316 basechar 0
+LayerCount: 2
+Fore
+Refer: 257 769 N 1 0 0 1 580 -286 2
+Refer: 233 121 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

@@ -1,0 +1,12 @@
+StartChar: uni1FCD
+Encoding: 8141 8141 926
+Width: 484
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 250 501 mark 0
+LayerCount: 2
+Fore
+Refer: 932 8175 N 1 0 0 1 207.392 0.72 2
+Refer: 713 8127 N 1 0 0 1 0 0 2
+Validated: 32769
+EndChar

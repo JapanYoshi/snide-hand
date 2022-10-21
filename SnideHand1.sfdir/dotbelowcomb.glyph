@@ -1,0 +1,12 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 971
+Width: 0
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "cedilla" -286 20 mark 0
+AnchorPoint: "cedilla" -286 -260 basemark 0
+LayerCount: 2
+Fore
+Refer: 271 775 N 1 0 0 1 -30 -1240 2
+Validated: 32769
+EndChar

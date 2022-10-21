@@ -1,0 +1,14 @@
+StartChar: kappa
+Encoding: 954 954 573
+Width: 496
+VWidth: 2000
+UnlinkRmOvrlpSave: 1
+Flags: HMW
+AnchorPoint: "cedilla" 250 19 basemark 0
+AnchorPoint: "ogonek" 412 57 basemark 0
+AnchorPoint: "acute" 229 589 basemark 0
+LayerCount: 2
+Fore
+Refer: 666 1082 N 1 0 0 1 0 0 3
+Decomposition: "+BDoA"
+EndChar

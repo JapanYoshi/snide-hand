@@ -1,0 +1,12 @@
+StartChar: kgreenlandic
+Encoding: 312 312 959
+Width: 496
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "cedilla" 300 20 basechar 0
+AnchorPoint: "ogonek" 470 60 basechar 0
+AnchorPoint: "acute" 278 620 basechar 0
+LayerCount: 2
+Fore
+Refer: 573 954 N 1 0 0 1 10 0 2
+EndChar

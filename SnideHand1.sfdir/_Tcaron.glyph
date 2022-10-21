@@ -1,0 +1,11 @@
+StartChar: Tcaron
+Encoding: 356 356 385
+Width: 730
+VWidth: 2000
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 261 780 N 1 0 0 1 668 24 2
+Refer: 207 84 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

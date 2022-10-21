@@ -1,0 +1,14 @@
+StartChar: Amacron
+Encoding: 256 256 499
+Width: 624
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "ogonek" 574 36 basechar 0
+AnchorPoint: "cedilla" 294 34 basechar 0
+AnchorPoint: "acute" 356 1161 basechar 0
+LayerCount: 2
+Fore
+Refer: 471 772 N 1 0 0 1 682 60 2
+Refer: 188 65 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

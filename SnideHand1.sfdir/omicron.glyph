@@ -1,0 +1,12 @@
+StartChar: omicron
+Encoding: 959 959 578
+Width: 528
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 255 567 basemark 0
+AnchorPoint: "cedilla" 275 47 basemark 0
+LayerCount: 2
+Fore
+Refer: 246 111 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

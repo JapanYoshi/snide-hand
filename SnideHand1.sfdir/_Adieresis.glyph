@@ -1,0 +1,14 @@
+StartChar: Adieresis
+Encoding: 196 196 277
+Width: 624
+VWidth: 1828
+Flags: HMW
+AnchorPoint: "ogonek" 572 32 basechar 0
+AnchorPoint: "cedilla" 316 32 basechar 0
+AnchorPoint: "acute" 354 1180 basechar 0
+LayerCount: 2
+Fore
+Refer: 260 776 N 1 0 0 1 634 60 2
+Refer: 188 65 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

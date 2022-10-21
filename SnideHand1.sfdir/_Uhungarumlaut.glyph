@@ -1,0 +1,11 @@
+StartChar: Uhungarumlaut
+Encoding: 368 368 482
+Width: 650
+VWidth: 2000
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 479 779 N 1 0 0 1 738 128 2
+Refer: 208 85 N 1 0 0 1 10 0 3
+Validated: 32769
+EndChar

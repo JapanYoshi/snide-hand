@@ -1,0 +1,31 @@
+StartChar: l
+Encoding: 108 108 224
+Width: 298
+VWidth: 1828
+Flags: HMW
+AnchorPoint: "cedilla" 172 28 basemark 0
+AnchorPoint: "ogonek" 258 52 basemark 0
+AnchorPoint: "acute" 106 974 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+242 86 m 3
+ 262 86 290 82 290 62 c 0
+ 290 52 282 36 258 18 c 0
+ 244 8 222 -6 204 -12 c 0
+ 194 -16 188 -16 186 -16 c 0
+ 176 -16 162 -14 146 -4 c 0
+ 122 8 112 22 106 28 c 0
+ 90 44 78 76 72 116 c 0
+ 68 148 66 298 68 438 c 0
+ 70 622 70 728 70 890 c 0
+ 70 916 80 926 110 926 c 0
+ 126 926 146 916 152 898 c 0
+ 156 888 152 734 154 612 c 0
+ 156 488 146 386 148 346 c 0
+ 152 200 146 118 178 80 c 0
+ 184 72 194 70 204 70 c 0
+ 210 70 226 86 242 86 c 3
+EndSplineSet
+Validated: 33
+EndChar

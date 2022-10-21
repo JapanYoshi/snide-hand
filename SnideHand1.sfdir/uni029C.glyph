@@ -1,0 +1,13 @@
+StartChar: uni029C
+Encoding: 668 668 493
+Width: 546
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 282 594 basemark 0
+AnchorPoint: "ogonek" 450 32 basemark 0
+AnchorPoint: "cedilla" 294 28 basemark 0
+LayerCount: 2
+Fore
+Refer: 669 1085 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

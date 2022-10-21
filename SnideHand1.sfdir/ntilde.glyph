@@ -1,0 +1,14 @@
+StartChar: ntilde
+Encoding: 241 241 310
+Width: 578
+VWidth: 2000
+Flags: HMW
+AnchorPoint: "acute" 296 894 basechar 0
+AnchorPoint: "ogonek" 512 38 basechar 0
+AnchorPoint: "cedilla" 334 34 basechar 0
+LayerCount: 2
+Fore
+Refer: 259 771 N 1 0 0 1 580 -284 2
+Refer: 226 110 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar
