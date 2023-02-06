@@ -2,9 +2,7 @@ StartChar: bracketright.case
 Encoding: 1114136 -1 1177
 Width: 454
 GlyphClass: 2
-Flags: MW
-HStem: -255 82<144 261 181 261 181 320> 887 77<261 335 261 286>
-VStem: 327 85
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

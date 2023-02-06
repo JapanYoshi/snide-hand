@@ -2,9 +2,7 @@ StartChar: ccedilla
 Encoding: 231 231 167
 Width: 560
 GlyphClass: 2
-Flags: MW
-HStem: -291 21G<200.5 226.5> -13 88<219.5 246.5> 476 87<277.5 306>
-VStem: 43 88<223.5 270 223.5 273> 338 90<-126.5 -98.5 -126.5 -98>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -41,4 +39,5 @@ SplineSet
  185 -291 169 -255 169 -229 c 0
  169 -224 176 -211 254 -199 c 0
 EndSplineSet
+Validated: 1
 EndChar

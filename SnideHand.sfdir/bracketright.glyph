@@ -2,14 +2,12 @@ StartChar: bracketright
 Encoding: 93 93 64
 Width: 502
 GlyphClass: 2
-Flags: MW
-HStem: -325 82<144 261 181 261 181 320> 817 77<261 335 261 286> 894 20G
-VStem: 327 85
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-44 902 m 0xd0
- 48 912 54 914 64 914 c 0xb0
+44 902 m 0
+ 48 912 54 914 64 914 c 0
  80 914 96 898 126 896 c 0
  148 894 252 894 270 894 c 0
  272 894 288 896 318 898 c 0
@@ -39,7 +37,8 @@ SplineSet
  236 814 191 808 151 808 c 0
  130 808 110 809 92 815 c 0
  58 825 40 846 40 856 c 0
- 40 864 40 894 44 902 c 0xd0
+ 40 864 40 894 44 902 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" bracketright.case
+Kerns2: 62 -23 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 77 86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -34 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" bracketright.case
 EndChar

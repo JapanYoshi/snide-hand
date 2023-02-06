@@ -2,9 +2,7 @@ StartChar: question
 Encoding: 63 63 34
 Width: 474
 GlyphClass: 2
-Flags: MW
-HStem: -8 21G<242.5 260.5> 828 90<222.5 247.5>
-VStem: 146 107<356.5 394.5> 362 78<679.5 725.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

@@ -2,9 +2,7 @@ StartChar: parenleft.case
 Encoding: 1114133 -1 1174
 Width: 396
 GlyphClass: 2
-Flags: MW
-HStem: -120 88<280.5 315>
-VStem: 38 76<426 505.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

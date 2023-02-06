@@ -2,9 +2,7 @@ StartChar: periodcentered
 Encoding: 183 183 119
 Width: 192
 GlyphClass: 2
-Flags: MW
-HStem: 200 118<103 117>
-VStem: 58 104<265 287 262 293>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -16,5 +14,5 @@ SplineSet
  94 200 42 221 42 242 c 0
  42 256 58 250 58 280 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" periodcentered.case
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" periodcentered.case
 EndChar

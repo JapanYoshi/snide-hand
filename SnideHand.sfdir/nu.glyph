@@ -2,9 +2,7 @@ StartChar: nu
 Encoding: 957 957 587
 Width: 561
 GlyphClass: 4
-Flags: MW
-HStem: -9 21G<294.5 313> 435 102<103 127>
-VStem: 429 93<422 500>
+Flags: HMW
 AnchorPoint: "acute" 290 567 basechar 0
 AnchorPoint: "ogonek" 0 0 basechar 0
 AnchorPoint: "cedilla" 310 47 basechar 0

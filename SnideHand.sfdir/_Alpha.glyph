@@ -2,9 +2,7 @@ StartChar: Alpha
 Encoding: 913 913 544
 Width: 624
 GlyphClass: 2
-Flags: MW
-HStem: -8 21G<560 577> 264 88<289 293 289 331> 884 20G<338 358>
-VStem: 538 72<7 59>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -50,4 +48,5 @@ SplineSet
  20 112 22 134 28 160 c 0
  40 255 76 358 122 442 c 0
 EndSplineSet
+Validated: 1
 EndChar

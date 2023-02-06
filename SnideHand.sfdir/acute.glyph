@@ -2,9 +2,7 @@ StartChar: acute
 Encoding: 180 180 116
 Width: 374
 GlyphClass: 2
-Flags: MW
-HStem: 654 244<54.5 296.5>
-VStem: 20 304<671.5 872.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

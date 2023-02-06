@@ -2,9 +2,7 @@ StartChar: quotereversed
 Encoding: 8219 8219 1063
 Width: 260
 GlyphClass: 2
-Flags: MW
-HStem: 886 20G<91 119>
-VStem: 50 78<773.5 777>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

@@ -2,9 +2,7 @@ StartChar: omicron
 Encoding: 959 959 589
 Width: 528
 GlyphClass: 4
-Flags: MW
-HStem: -10 81<230 249 230 265.5> 463 81<261 328>
-VStem: 46 88<267 289 232 349> 412 78<300 342>
+Flags: HMW
 AnchorPoint: "acute" 255 567 basechar 0
 AnchorPoint: "ogonek" 0 0 basechar 0
 AnchorPoint: "cedilla" 275 47 basechar 0

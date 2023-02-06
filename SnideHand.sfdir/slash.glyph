@@ -2,9 +2,7 @@ StartChar: slash
 Encoding: 47 47 18
 Width: 534
 GlyphClass: 2
-Flags: MW
-HStem: 2 896<51 503>
-VStem: 20 504
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

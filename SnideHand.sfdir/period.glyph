@@ -2,9 +2,7 @@ StartChar: period
 Encoding: 46 46 17
 Width: 236
 GlyphClass: 2
-Flags: MW
-HStem: -4 21G<118 134>
-VStem: 64 118<48 93>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -19,4 +17,5 @@ SplineSet
  72 48 64 62 64 82 c 0
  64 104 72 128 82 138 c 0
 EndSplineSet
+Kerns2: 12 -109 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 34 -118 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 38 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 39 -65 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 40 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 41 -32 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 42 -29 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 45 -33 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 46 -21 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 50 -80 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 51 -45 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 52 -114 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 55 -168 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 56 -95 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 57 -144 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 58 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 59 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 60 -160 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 64 -120 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 73 -156 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 74 -40 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 87 -133 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 89 -79 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 91 -23 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -103 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 96 -103 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

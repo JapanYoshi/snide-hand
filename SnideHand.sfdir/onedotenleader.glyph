@@ -2,9 +2,7 @@ StartChar: onedotenleader
 Encoding: 8228 8228 1072
 Width: 236
 GlyphClass: 2
-Flags: MW
-HStem: -4 21G<118 134>
-VStem: 64 118<48 93>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

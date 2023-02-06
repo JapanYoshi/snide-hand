@@ -2,9 +2,7 @@ StartChar: onesuperior
 Encoding: 185 185 121
 Width: 422
 GlyphClass: 2
-Flags: MW
-HStem: 432 92<167 170 167 192>
-VStem: 168 84<722 801 694 804 694 804>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

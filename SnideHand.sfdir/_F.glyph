@@ -2,9 +2,7 @@ StartChar: F
 Encoding: 70 70 41
 Width: 668
 GlyphClass: 4
-Flags: MW
-HStem: -12 21G<149 160> 398 94<229 355> 796 86<494 555> 915 20G<102.5 117>
-VStem: 96 86
+Flags: HMW
 AnchorPoint: "acute" 336 940 basechar 0
 AnchorPoint: "ogonek" 164 44 basechar 0
 AnchorPoint: "cedilla" 158 46 basechar 0
@@ -25,14 +23,19 @@ SplineSet
  484 796 416 796 318 788 c 0
  299 786 223 783 166 779 c 1
  172 755 172 652 178 596 c 0
- 186 526 180 452 182 376 c 2
+ 181.464677835 565.684068948 182.30348231 534.617888364 182.30348231 502.963919057 c 0
+ 182.30348231 473.248790129 181.564286285 443.015672681 181.564286285 412.398965991 c 0
+ 181.564286285 400.322904374 181.679285087 388.187166701 182 376 c 2
  182 220 l 2
  182 172 198 138 198 64 c 0
- 198 40 202 32 192 14 c 0
+ 198 53.3333333333 198.790123457 45.8271604938 198.790123457 39.1989026063 c 0
+ 198.790123457 30.9135802469 197.555555556 24 192 14 c 0
  182 -4 166 -12 154 -12 c 0
  144 -12 136 -4 128 16 c 0
  112 70 110 92 100 172 c 0
- 90 220 98 369 96 569 c 0
+ 95.9404462788 191.485857862 94.8472883124 227.616491903 94.8472883124 277.046834644 c 0
+ 94.8472883124 334.738573825 96.336385157 410.547140461 96.336385157 499.154331537 c 0
+ 96.336385157 521.640919301 96.2404821728 544.951782719 96 569 c 0
  95 653 85 735 77 817 c 0
  73 851 75 875 69 889 c 0
  69 891 67 895 67 897 c 0
@@ -47,4 +50,5 @@ SplineSet
  290 398 256 402 236 414 c 0
  220 424 212 440 212 462 c 0
 EndSplineSet
+Kerns2: 36 -103 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 38 -44 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 42 -76 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 45 -79 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 50 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 52 -48 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 54 -18 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 68 -40 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 70 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 71 -67 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 72 -48 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 73 -33 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 74 -75 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 77 10 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 80 -19 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 81 -63 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 82 -69 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 83 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 84 -75 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 85 -20 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 86 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 87 -43 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 88 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 89 -23 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 90 -30 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 91 -25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 92 -52 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 93 -31 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -55 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

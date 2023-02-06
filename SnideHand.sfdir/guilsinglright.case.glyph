@@ -2,9 +2,7 @@ StartChar: guilsinglright.case
 Encoding: 1114141 -1 1182
 Width: 396
 GlyphClass: 2
-Flags: MW
-HStem: 195 522<85.5 101 79 108>
-VStem: 41 314<423 670>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

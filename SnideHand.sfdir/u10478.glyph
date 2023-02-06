@@ -2,9 +2,7 @@ StartChar: u10478
 Encoding: 66680 66680 1145
 Width: 770
 GlyphClass: 2
-Flags: MW
-HStem: -11 21G<94 139.5 500 512> 199 89 466 91<355 446>
-VStem: 90 89<324 363> 635 85<231 283>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

@@ -2,9 +2,7 @@ StartChar: asciicircum
 Encoding: 94 94 65
 Width: 470
 GlyphClass: 2
-Flags: MW
-HStem: 908 20G<273 288>
-VStem: 18 444<507 528 506 536>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

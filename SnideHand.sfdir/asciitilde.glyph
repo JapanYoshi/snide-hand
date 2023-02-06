@@ -2,13 +2,11 @@ StartChar: asciitilde
 Encoding: 126 126 97
 Width: 490
 GlyphClass: 2
-Flags: MW
-HStem: 164 86<349 357> 164 246<157.5 357> 316 94<183 184 157.5 193.5>
-VStem: 32 428<270 286 269 293.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-32 278 m 0xb0
+32 278 m 0
  32 309 139 410 176 410 c 0
  192 410 212 404 230 386 c 0
  254 362 280 316 314 278 c 0
@@ -25,6 +23,6 @@ SplineSet
  109 249 104 238 86 230 c 0
  79 227 73 226 67 226 c 0
  57 226 49 230 44 236 c 0
- 34 246 32 262 32 278 c 0xb0
+ 34 246 32 262 32 278 c 0
 EndSplineSet
 EndChar

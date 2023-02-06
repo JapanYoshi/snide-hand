@@ -2,9 +2,7 @@ StartChar: two
 Encoding: 50 50 21
 Width: 478
 GlyphClass: 2
-Flags: MW
-HStem: 458 92<231 276>
-VStem: 306 78<379 423>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -33,5 +31,4 @@ SplineSet
  254 286 306 344 306 404 c 0
 EndSplineSet
 Substitution2: "'sups' +TgowZDBNZYdbVwAA lookup 4 +MLUw1jDGMPww1jDr" twosuperior
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" twosuperior
 EndChar

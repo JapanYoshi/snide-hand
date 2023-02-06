@@ -2,17 +2,15 @@ StartChar: uni0282
 Encoding: 642 642 437
 Width: 490
 GlyphClass: 4
-Flags: MW
-HStem: -255 83<204 249> -19 85<227.5 242> -3 21G 480 84<235.5 252 181.5 270.5>
-VStem: 129 85<424.5 452.5 424.5 458> 340 90<98.5 105.5>
+Flags: HMW
 AnchorPoint: "acute" 262 594 basechar 0
 AnchorPoint: "ogonek" 365 57 basechar 0
 AnchorPoint: "cedilla" 239 -212 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-150 -3 m 1xb8
- 156 -43 164 -73 169 -87 c 0xb8
+150 -3 m 1
+ 156 -43 164 -73 169 -87 c 0
  174 -107 176 -125 192 -143 c 0
  209 -161 225 -172 241 -172 c 0
  257 -172 266 -168 270 -163 c 0
@@ -46,7 +44,8 @@ SplineSet
  416 158 430 132 430 96 c 0
  430 77 423 68 416 53 c 0
  395 11 346 -2 304 -12 c 0
- 297 -13 257 -19 227 -19 c 0xdc
- 219 -19 178 -11 150 -3 c 1xb8
+ 297 -13 257 -19 227 -19 c 0
+ 219 -19 178 -11 150 -3 c 1
 EndSplineSet
+Validated: 1
 EndChar

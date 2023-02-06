@@ -2,9 +2,7 @@ StartChar: Xi
 Encoding: 926 926 557
 Width: 766
 GlyphClass: 2
-Flags: MW
-HStem: 9 88<216 390.5> 533 20G<589 608> 819 85<355.5 420>
-VStem: 35 701<125.5 834>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -59,4 +57,5 @@ SplineSet
  452 94 l 2
  519 94 575 106 622 126 c 0
 EndSplineSet
+Validated: 1
 EndChar

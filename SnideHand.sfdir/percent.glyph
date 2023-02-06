@@ -2,9 +2,7 @@ StartChar: percent
 Encoding: 37 37 8
 Width: 884
 GlyphClass: 2
-Flags: MW
-HStem: 18 90<649 680> 300 102<681 701 676 708> 488 92<149 159> 668 80<425 454>
-VStem: 20 86<648 653> 534 86<155 203 155 221> 788 88<218 241>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

@@ -2,9 +2,7 @@ StartChar: degree
 Encoding: 176 176 112
 Width: 336
 GlyphClass: 2
-Flags: MW
-HStem: 626 108<165 175.5 165 187.5> 884 20G<208 224>
-VStem: 46 110<745 800.5> 46 254<790 800.5> 218 82<790 794>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

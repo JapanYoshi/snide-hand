@@ -2,9 +2,7 @@ StartChar: alpha
 Encoding: 945 945 575
 Width: 622
 GlyphClass: 4
-Flags: MW
-HStem: -1 81<188 217 217 222.5 188 227> 460 84<231 242.5>
-VStem: 64 76<181 228.5 181 229>
+Flags: HMW
 AnchorPoint: "acute" 302 594 basechar 0
 AnchorPoint: "ogonek" 0 0 basechar 0
 AnchorPoint: "cedilla" 314 28 basechar 0

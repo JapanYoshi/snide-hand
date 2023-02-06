@@ -2,9 +2,7 @@ StartChar: ampersand
 Encoding: 38 38 9
 Width: 628
 GlyphClass: 2
-Flags: MW
-HStem: 36 92<229 248 214.5 266.5> 822 86<231.5 266>
-VStem: 42 80<250 267 228 295> 124 82<698 724 698 771.5> 344 82<669 712 665 714>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

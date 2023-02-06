@@ -2,47 +2,46 @@ StartChar: V
 Encoding: 86 86 57
 Width: 692
 GlyphClass: 4
-Flags: MW
-HStem: -28 21G<390 414.5> 902 20G<612 631.5>
-VStem: 566 94
-AnchorPoint: "acute" 354 934 basechar 0
-AnchorPoint: "ogonek" 412 20 basechar 0
-AnchorPoint: "cedilla" 402 20 basechar 0
+Flags: HMW
+AnchorPoint: "acute" 344 934 basechar 0
+AnchorPoint: "ogonek" 402 20 basechar 0
+AnchorPoint: "cedilla" 392 20 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-258 398 m 0
- 290 322 282 340 320 264 c 0
- 326 254 332 240 342 220 c 0
- 356 188 356 188 362 178 c 0
- 366 170 386 130 394 120 c 1
- 404 138 404 152 414 176 c 0
- 420 188 418 208 428 234 c 0
- 452 298 468 352 478 396 c 0
- 480 406 482 424 492 448 c 0
- 508 492 518 536 524 554 c 0
- 543 631 553 709 560 788 c 0
- 564 836 560 846 566 876 c 0
- 572 904 604 922 620 922 c 0
- 643 922 660 875 660 856 c 0
- 660 844 656 840 650 830 c 0
- 644 820 638 800 632 768 c 0
- 620 642 596 530 564 430 c 0
- 550 384 546 336 520 264 c 0
- 514 246 510 224 502 192 c 0
- 490 140 472 84 454 30 c 0
- 444 -1 433 -28 396 -28 c 0
- 384 -28 374 -24 364 -16 c 0
- 350 -6 344 16 328 50 c 0
- 306 96 300 126 276 162 c 0
- 268 172 252 202 218 274 c 0
- 204 304 196 328 174 384 c 0
- 154 438 128 510 108 608 c 0
- 90 702 86 736 52 800 c 0
- 42 816 38 832 38 846 c 0
- 38 864 66 894 84 894 c 0
- 137 894 159 786 166 750 c 0
- 198 618 214 546 218 530 c 0
- 234 456 230 464 258 398 c 0
+248 398 m 0
+ 280 322 272 340 310 264 c 0
+ 316 254 322 240 332 220 c 0
+ 346 188 346 188 352 178 c 0
+ 356 170 376 130 384 120 c 1
+ 394 138 394 152 404 176 c 0
+ 410 188 408 208 418 234 c 0
+ 442 298 458 352 468 396 c 0
+ 470 406 472 424 482 448 c 0
+ 498 492 508 536 514 554 c 0
+ 533 631 543 709 550 788 c 0
+ 554 836 550 846 556 876 c 0
+ 562 904 594 922 610 922 c 0
+ 633 922 650 875 650 856 c 0
+ 650 844 646 840 640 830 c 0
+ 634 820 628 800 622 768 c 0
+ 610 642 586 530 554 430 c 0
+ 540 384 536 336 510 264 c 0
+ 504 246 500 224 492 192 c 0
+ 480 140 462 84 444 30 c 0
+ 434 -1 423 -28 386 -28 c 0
+ 374 -28 364 -24 354 -16 c 0
+ 340 -6 334 16 318 50 c 0
+ 296 96 290 126 266 162 c 0
+ 258 172 242 202 208 274 c 0
+ 194 304 186 328 164 384 c 0
+ 144 438 118 510 98 608 c 0
+ 80 702 76 736 42 800 c 0
+ 32 816 28 832 28 846 c 0
+ 28 864 56 894 74 894 c 0
+ 127 894 149 786 156 750 c 0
+ 188 618 204 546 208 530 c 0
+ 224 456 220 464 248 398 c 0
 EndSplineSet
+Kerns2: 36 -103 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 38 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 42 -66 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 45 -85 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 50 -45 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 52 -25 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 68 -80 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 70 -86 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 71 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 72 -74 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 73 -72 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 74 -97 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 77 -21 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 80 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 81 -58 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 82 -79 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 83 -40 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 84 -90 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 85 -41 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 86 -81 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 87 -69 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 88 -50 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 89 -45 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 90 -47 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 91 -54 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 92 -69 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 93 -45 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -71 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

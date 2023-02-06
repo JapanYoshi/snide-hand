@@ -2,9 +2,7 @@ StartChar: uni0445
 Encoding: 1093 1093 697
 Width: 554
 GlyphClass: 4
-Flags: MW
-HStem: 518 20G<462 477.5>
-VStem: 24 506<494 498>
+Flags: HMW
 AnchorPoint: "acute" 276 564 basechar 0
 AnchorPoint: "ogonek" 0 0 basechar 0
 AnchorPoint: "cedilla" 288 32 basechar 0

@@ -2,9 +2,7 @@ StartChar: uni1EBB
 Encoding: 7867 7867 758
 Width: 509
 GlyphClass: 2
-Flags: MW
-HStem: -18 80<258 302 258 310> 468 92<236 259 216 269> 634 151<220 227.5 211 241> 927 70<237 273.5 237 287.5>
-VStem: 41 93<312 326.5> 194 75<665 672> 341 80<856 888.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

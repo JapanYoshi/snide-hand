@@ -2,9 +2,7 @@ StartChar: gravecomb
 Encoding: 768 768 510
 Width: 0
 GlyphClass: 4
-Flags: MW
-HStem: 904 200<-411 -210.5>
-VStem: -448 276<928 1078>
+Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
 AnchorPoint: "cedilla2cedilla" 0 0 basemark 0
 AnchorPoint: "acute2acute" -294 1142 basemark 0
@@ -24,4 +22,5 @@ SplineSet
  -393 1014 -414 1029 -425 1035 c 0
  -443 1045 -448 1058 -448 1064 c 0
 EndSplineSet
+Validated: 1
 EndChar

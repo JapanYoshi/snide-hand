@@ -2,9 +2,7 @@ StartChar: uni2010
 Encoding: 8208 8208 1054
 Width: 352
 GlyphClass: 2
-Flags: MW
-HStem: 272 87<135 173 134 268.5>
-VStem: 50 262<308.5 328.5 308.5 329>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -20,5 +18,5 @@ SplineSet
  56 294 50 298 50 318 c 0
  50 340 56 343 72 351 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" uni2010.case
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" uni2010.case
 EndChar

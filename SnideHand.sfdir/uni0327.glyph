@@ -2,9 +2,7 @@ StartChar: uni0327
 Encoding: 807 807 525
 Width: 0
 GlyphClass: 4
-Flags: MW
-HStem: -326 84<-461 -424 -461 -381>
-VStem: -314 90<-164 -151>
+Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
 AnchorPoint: "cedilla2cedilla" -343 -281 basemark 0
 AnchorPoint: "acute2acute" 0 0 basemark 0
@@ -25,8 +23,10 @@ SplineSet
  -322 -182 -314 -168 -314 -160 c 0
  -314 -142 -336 -100 -356 -80 c 0
  -372 -64 -382 -48 -388 -30 c 0
- -390 -24 -394 -6 -392 8 c 0
+ -389.618033989 -25.1458980338 -392.545084972 -12.4376941013 -392.545084972 -0.347524157501 c 0
+ -392.545084972 2.50657780875 -392.381966011 5.32623792125 -392 8 c 0
  -388 37 -363 53 -341 53 c 0
  -324 53 -308 43 -304 24 c 0
 EndSplineSet
+Validated: 524289
 EndChar

@@ -2,9 +2,7 @@ StartChar: uni1FBF
 Encoding: 8127 8127 997
 Width: 246
 GlyphClass: 4
-Flags: MW
-HStem: 890 20G<102 128>
-VStem: 124 78<720 738>
+Flags: HMW
 AnchorPoint: "acute2acute" 120 501 mark 0
 AnchorPoint: "acute" 120 501 mark 0
 LayerCount: 2

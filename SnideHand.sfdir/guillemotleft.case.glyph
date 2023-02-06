@@ -2,9 +2,7 @@ StartChar: guillemotleft.case
 Encoding: 1114142 -1 1183
 Width: 546
 GlyphClass: 2
-Flags: MW
-HStem: 246 72<471 488>
-VStem: 28 504<272 432>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

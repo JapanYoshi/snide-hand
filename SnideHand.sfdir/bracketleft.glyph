@@ -2,13 +2,11 @@ StartChar: bracketleft
 Encoding: 91 91 62
 Width: 456
 GlyphClass: 2
-Flags: MW
-HStem: -324 21G<121 135> 846 78<195.5 309 245 284> 913 20G<119 126>
-VStem: 73 87 76 87<722 770> 97 79
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-167 402 m 0xc4
+167 402 m 0
  173 340 179 32 179 -84 c 0
  179 -138 177 -192 175 -230 c 1
  205 -228 252 -222 296 -222 c 0
@@ -21,12 +19,13 @@ SplineSet
  159 -318 140 -324 130 -324 c 0
  112 -324 78 -291 78 -272 c 0
  78 -270 78 -268 80 -266 c 0
- 94 -232 100 -164 100 -66 c 0xc4
+ 94 -232 100 -164 100 -66 c 0
  100 48 96 308 90 384 c 0
  86 440 76 690 76 754 c 0
- 76 786 72 820 80 856 c 0
+ 76 770 75 786.5 75 803.5 c 0
+ 75 820.5 76 838 80 856 c 0
  88 892 94 916 104 926 c 0
- 109 931 115 933 123 933 c 0xb0
+ 109 931 115 933 123 933 c 0
  129 933 136 932 144 930 c 0
  166 924 210 924 280 924 c 0
  338 924 378 922 394 916 c 0
@@ -35,8 +34,11 @@ SplineSet
  378 848 340 846 284 846 c 0
  254 846 229 846 210 846 c 0
  181 846 164 846 163 842 c 0
- 157 832 163 798 163 766 c 0xd0
- 163 668 157 506 167 402 c 0xc4
+ 161 838.666666667 160.333333333 832.666666667 160.333333333 824.962962963 c 0
+ 160.333333333 809.555555556 163 787.333333333 163 766 c 0
+ 163 712.545454545 161.214876033 640.049586777 161.214876033 568.311044328 c 0
+ 161.214876033 508.52892562 162.454545455 449.272727273 167 402 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" bracketleft.case
+Kerns2: 36 -135 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 38 -135 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 42 -164 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 43 -47 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 44 -32 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 45 -136 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 47 -38 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 50 -115 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 51 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 52 -114 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 54 -105 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 55 -63 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 68 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 70 -162 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 71 -155 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 72 -116 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 73 -130 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 74 -95 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 76 -18 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 77 69 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 80 -112 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 81 -118 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 82 -130 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 83 -40 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 84 -161 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 85 -115 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 86 -132 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 87 -128 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 88 -117 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 89 -100 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 90 -104 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 91 -134 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 92 -98 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 93 -140 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -170 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" bracketleft.case
 EndChar

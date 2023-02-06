@@ -2,9 +2,7 @@ StartChar: dcaron
 Encoding: 271 271 207
 Width: 732
 GlyphClass: 2
-Flags: MW
-HStem: 2 100<164 219 164 228> 432 88<215 281>
-VStem: 42 86<183 264> 370 112<527 818> 612 80<754 777>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -40,4 +38,5 @@ SplineSet
  322 84 280 2 176 2 c 0
  102 2 42 92 42 182 c 0
 EndSplineSet
+Validated: 1
 EndChar

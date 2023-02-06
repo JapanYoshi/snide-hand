@@ -2,9 +2,8 @@ StartChar: oslash
 Encoding: 248 248 184
 Width: 582
 GlyphClass: 2
-Flags: MW
-HStem: -2 85<298 319.5 298 325.5> 447 85<281 347> 523 20G<195.5 206.5>
-VStem: 45 79<270.5 305.5 270.5 327> 464 70<211.5 257.5>
+Flags: HMW
+AnchorPoint: "acute" 288 602 basechar 0
 LayerCount: 2
 Fore
 SplineSet

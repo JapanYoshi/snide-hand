@@ -2,9 +2,7 @@ StartChar: guilsinglleft
 Encoding: 8249 8249 1077
 Width: 396
 GlyphClass: 2
-Flags: MW
-HStem: 517 20G<289 307.5>
-VStem: 37 298<31 252.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +25,5 @@ SplineSet
  197 449 176 413 226 474 c 0
  239 488 249 503 258 517 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" guilsinglleft.case
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" guilsinglleft.case
 EndChar

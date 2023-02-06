@@ -2,9 +2,7 @@ StartChar: uni2010.case
 Encoding: 1114129 -1 1170
 Width: 352
 GlyphClass: 2
-Flags: MW
-HStem: 422 87<135 173 134 268.5>
-VStem: 50 262<458.5 478.5 458.5 479>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

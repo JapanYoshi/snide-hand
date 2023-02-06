@@ -2,9 +2,7 @@ StartChar: caron
 Encoding: 711 711 506
 Width: 518
 GlyphClass: 2
-Flags: MW
-HStem: 654 246<238 412.5>
-VStem: 86 346<848 868>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -23,4 +21,5 @@ SplineSet
  360 740 364 748 312 684 c 0
  297 665 292 654 256 654 c 0
 EndSplineSet
+Validated: 1
 EndChar

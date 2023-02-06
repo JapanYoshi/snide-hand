@@ -2,9 +2,7 @@ StartChar: periodcentered.case
 Encoding: 1114139 -1 1180
 Width: 192
 GlyphClass: 2
-Flags: MW
-HStem: 370 118<103 117>
-VStem: 58 104<435 457 432 463>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

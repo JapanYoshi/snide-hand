@@ -2,9 +2,7 @@ StartChar: bar
 Encoding: 124 124 95
 Width: 221
 GlyphClass: 2
-Flags: MW
-HStem: -288 21G<144 161.5>
-VStem: 54 82<415.5 483 376 537.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -27,4 +25,5 @@ SplineSet
  63 820 66 844 68 852 c 0
  71 863 98 870 112 870 c 0
 EndSplineSet
+Kerns2: 77 150 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

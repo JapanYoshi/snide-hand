@@ -2,9 +2,7 @@ StartChar: gamma
 Encoding: 947 947 577
 Width: 646
 GlyphClass: 2
-Flags: MW
-HStem: -338 81<375 377 375 388.5>
-VStem: 253 84<-199 -140> 392 75<-226 -220.5>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

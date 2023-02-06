@@ -2,7 +2,7 @@ StartChar: p
 Encoding: 112 112 227
 Width: 584
 VWidth: 1828
-Flags: MW
+Flags: MWO
 AnchorPoint: "cedilla" 316 32 basemark 0
 AnchorPoint: "ogonek" 446 76 basemark 0
 AnchorPoint: "acute" 304 578 basemark 0

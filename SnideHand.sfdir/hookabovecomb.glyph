@@ -2,9 +2,7 @@ StartChar: hookabovecomb
 Encoding: 777 777 518
 Width: 0
 GlyphClass: 4
-Flags: MW
-HStem: 922 151<-268 -260.5 -277 -247> 1215 70<-251 -214.5 -251 -200.5>
-VStem: -294 75<953 960> -147 80<1144 1176.5>
+Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
 AnchorPoint: "cedilla2cedilla" 0 0 basemark 0
 AnchorPoint: "acute2acute" -236 1322 basemark 0
@@ -34,4 +32,5 @@ SplineSet
  -300 996 -314 1010 -314 1038 c 0
  -314 1063 -288 1073 -266 1073 c 0
 EndSplineSet
+Validated: 1
 EndChar

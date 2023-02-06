@@ -2,9 +2,7 @@ StartChar: parenright
 Encoding: 41 41 12
 Width: 412
 GlyphClass: 2
-Flags: MW
-HStem: -290 21G<83 105>
-VStem: 296 74
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -17,7 +15,8 @@ SplineSet
  132 860 144 812 174 780 c 0
  262 684 276 666 292 624 c 0
  336 514 350 472 364 374 c 0
- 368 344 376 290 366 210 c 0
+ 366.581461641 354.63903769 370.828909334 325.282159072 370.828909334 285.39177926 c 0
+ 370.828909334 263.471626351 369.546345897 238.370767174 366 210 c 0
  362 178 358 156 352 138 c 0
  332 78 310 -26 224 -152 c 0
  206 -177 120 -290 90 -290 c 0
@@ -26,5 +25,5 @@ SplineSet
  106 -176 138 -146 148 -136 c 0
  192 -84 240 26 254 66 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" parenright.case
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" parenright.case
 EndChar

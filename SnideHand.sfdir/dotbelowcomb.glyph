@@ -2,9 +2,7 @@ StartChar: dotbelowcomb
 Encoding: 803 803 523
 Width: 0
 GlyphClass: 4
-Flags: MW
-HStem: -292 21G<-265 -239>
-VStem: -340 146<-267 -178>
+Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
 AnchorPoint: "cedilla2cedilla" -286 -260 basemark 0
 AnchorPoint: "acute2acute" 0 0 basemark 0
@@ -22,4 +20,5 @@ SplineSet
  -280 -292 -298 -272 -312 -254 c 0
  -328 -236 -340 -218 -340 -186 c 0
 EndSplineSet
+Validated: 1
 EndChar

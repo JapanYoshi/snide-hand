@@ -2,9 +2,7 @@ StartChar: iota
 Encoding: 953 953 583
 Width: 250
 GlyphClass: 4
-Flags: MW
-HStem: -8 21G<114 118 114 114> 527 20G<102 109>
-VStem: 54 84<320 353 353 355>
+Flags: HMW
 AnchorPoint: "acute" 102 559 basechar 0
 AnchorPoint: "ogonek" 0 0 basechar 0
 AnchorPoint: "cedilla" 123 39 basechar 0
@@ -12,7 +10,8 @@ LayerCount: 2
 Fore
 SplineSet
 114 546 m 0
- 146 533 138 486 138 450 c 2
+ 135.333333333 537.333333333 138.888888889 513.555555556 138.888888889 488 c 0
+ 138.888888889 475.222222222 138 462 138 450 c 2
  138 353 l 2
  138 287 136 222 136 159 c 0
  136 129 137 91 146 91 c 0

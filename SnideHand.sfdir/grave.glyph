@@ -2,9 +2,7 @@ StartChar: grave
 Encoding: 96 96 67
 Width: 326
 GlyphClass: 2
-Flags: MW
-HStem: 900 20G<59 72>
-VStem: 18 302<684.5 885>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

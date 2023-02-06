@@ -2,9 +2,7 @@ StartChar: anoteleia
 Encoding: 903 903 536
 Width: 210
 GlyphClass: 2
-Flags: MW
-HStem: 200 118<113 127>
-VStem: 68 104<265 287 262 293>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -16,4 +14,5 @@ SplineSet
  104 200 52 221 52 242 c 0
  52 256 68 250 68 280 c 0
 EndSplineSet
+Validated: 1
 EndChar

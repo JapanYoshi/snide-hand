@@ -2,9 +2,7 @@ StartChar: hyphenminus.case
 Encoding: 1114128 -1 1169
 Width: 410
 GlyphClass: 2
-Flags: MW
-HStem: 396 78
-VStem: 16 388<448 460>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

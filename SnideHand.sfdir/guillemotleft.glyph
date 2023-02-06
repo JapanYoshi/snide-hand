@@ -2,9 +2,7 @@ StartChar: guillemotleft
 Encoding: 171 171 107
 Width: 546
 GlyphClass: 2
-Flags: MW
-HStem: 96 72<471 488>
-VStem: 28 504<122 282>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -40,5 +38,5 @@ SplineSet
  246 298 284 322 338 360 c 0
  374 388 398 408 408 418 c 0
 EndSplineSet
-Substitution2: "'aalt' +MFkweTBmMG51cE9TW1cweDBuMKIwrzC7MLkA lookup 0 +MLUw1jDGMPww1jDr" guillemotleft.case
+Substitution2: "'case' +WSdlh1tXfUQwf3UoMGuKv2V0MFcwX1tXX2IA lookup 12 +MLUw1jDGMPww1jDr" guillemotleft.case
 EndChar
