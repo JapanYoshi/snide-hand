@@ -1,6 +1,7 @@
 StartChar: Alpha
-Encoding: 913 913 544
+Encoding: 800 913 544
 Width: 624
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

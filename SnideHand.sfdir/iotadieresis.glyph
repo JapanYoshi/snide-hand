@@ -1,6 +1,7 @@
 StartChar: iotadieresis
-Encoding: 970 970 600
+Encoding: 856 970 600
 Width: 250
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

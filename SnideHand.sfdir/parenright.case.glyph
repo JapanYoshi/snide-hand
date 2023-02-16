@@ -1,6 +1,7 @@
 StartChar: parenright.case
-Encoding: 1114134 -1 1175
+Encoding: 1431 -1 1175
 Width: 412
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

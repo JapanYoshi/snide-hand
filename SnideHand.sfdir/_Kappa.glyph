@@ -1,6 +1,7 @@
 StartChar: Kappa
-Encoding: 922 922 553
+Encoding: 809 922 553
 Width: 682
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -40,5 +41,5 @@ SplineSet
  63.7777777778 568 64 604.333333333 64 662 c 0
  64 712 76 829 81 870 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

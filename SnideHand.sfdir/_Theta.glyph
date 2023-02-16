@@ -1,6 +1,7 @@
 StartChar: Theta
-Encoding: 920 920 551
+Encoding: 807 920 551
 Width: 800
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -50,5 +51,5 @@ SplineSet
  518 513 530 518 539 518 c 0
  555 518 567 512 567 497 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

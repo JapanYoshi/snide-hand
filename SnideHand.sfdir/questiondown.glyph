@@ -1,6 +1,7 @@
 StartChar: questiondown
-Encoding: 191 191 127
+Encoding: 383 191 127
 Width: 504
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: f_f_l
-Encoding: 64260 64260 1103
+Encoding: 1359 64260 1103
 Width: 1076
+VWidth: 1000
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2

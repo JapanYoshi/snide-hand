@@ -1,6 +1,7 @@
 StartChar: seven
-Encoding: 55 55 26
+Encoding: 282 55 26
 Width: 560
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

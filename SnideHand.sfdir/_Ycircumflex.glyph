@@ -1,6 +1,7 @@
 StartChar: Ycircumflex
-Encoding: 374 374 310
+Encoding: 566 374 310
 Width: 660
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

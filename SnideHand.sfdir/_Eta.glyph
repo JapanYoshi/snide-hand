@@ -1,6 +1,7 @@
 StartChar: Eta
-Encoding: 919 919 550
+Encoding: 806 919 550
 Width: 740
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -58,5 +59,5 @@ SplineSet
  564 760.8 564.32 777.12 564.32 789.92 c 0
  564.32 809.12 563.6 820.4 560 854 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

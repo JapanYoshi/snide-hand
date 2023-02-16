@@ -1,6 +1,7 @@
 StartChar: edotaccent
-Encoding: 279 279 215
+Encoding: 471 279 215
 Width: 509
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

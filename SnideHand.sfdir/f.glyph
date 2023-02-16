@@ -1,6 +1,7 @@
 StartChar: f
-Encoding: 102 102 73
+Encoding: 329 102 73
 Width: 548
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 324 980 basechar 0

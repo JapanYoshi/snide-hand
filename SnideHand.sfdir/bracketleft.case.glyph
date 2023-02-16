@@ -1,6 +1,7 @@
 StartChar: bracketleft.case
-Encoding: 1114135 -1 1176
+Encoding: 1432 -1 1176
 Width: 456
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

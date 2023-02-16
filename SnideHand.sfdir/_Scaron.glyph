@@ -1,6 +1,7 @@
 StartChar: Scaron
-Encoding: 352 352 288
+Encoding: 544 352 288
 Width: 552
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: omacron
-Encoding: 333 333 269
+Encoding: 525 333 269
 Width: 536
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: dollar
-Encoding: 36 36 7
+Encoding: 263 36 7
 Width: 458
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

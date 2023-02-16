@@ -1,6 +1,7 @@
 StartChar: figuredash
-Encoding: 8210 8210 1056
+Encoding: 1312 8210 1056
 Width: 640
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

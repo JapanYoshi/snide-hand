@@ -1,6 +1,7 @@
 StartChar: yen
-Encoding: 165 165 102
+Encoding: 358 165 102
 Width: 778
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

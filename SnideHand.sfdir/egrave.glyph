@@ -1,6 +1,7 @@
 StartChar: egrave
-Encoding: 232 232 168
+Encoding: 424 232 168
 Width: 509
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

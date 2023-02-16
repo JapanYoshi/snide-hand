@@ -1,6 +1,7 @@
 StartChar: gdotaccent
-Encoding: 289 289 225
+Encoding: 481 289 225
 Width: 521
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

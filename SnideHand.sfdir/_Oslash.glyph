@@ -1,6 +1,7 @@
 StartChar: Oslash
-Encoding: 216 216 152
+Encoding: 408 216 152
 Width: 944
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 AnchorPoint: "acute" 465 952 basechar 0

@@ -1,6 +1,7 @@
 StartChar: umacron
-Encoding: 363 363 299
+Encoding: 555 363 299
 Width: 560
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

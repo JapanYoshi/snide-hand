@@ -1,6 +1,7 @@
 StartChar: obreve
-Encoding: 335 335 271
+Encoding: 527 335 271
 Width: 536
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

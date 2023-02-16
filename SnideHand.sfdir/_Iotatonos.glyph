@@ -1,6 +1,7 @@
 StartChar: Iotatonos
-Encoding: 906 906 539
+Encoding: 795 906 539
 Width: 778
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -55,5 +56,5 @@ SplineSet
  389 96 507 87 537 87 c 0
  605 87 648 101 710 101 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,6 +1,7 @@
 StartChar: ntilde
-Encoding: 241 241 177
+Encoding: 433 241 177
 Width: 578
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

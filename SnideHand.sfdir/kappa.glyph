@@ -1,6 +1,7 @@
 StartChar: kappa
-Encoding: 954 954 584
+Encoding: 840 954 584
 Width: 496
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 229 589 basechar 0

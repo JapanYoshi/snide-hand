@@ -1,6 +1,7 @@
 StartChar: ubreve
-Encoding: 365 365 301
+Encoding: 557 365 301
 Width: 560
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

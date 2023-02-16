@@ -1,6 +1,7 @@
 StartChar: Amacron
-Encoding: 256 256 192
+Encoding: 448 256 192
 Width: 624
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

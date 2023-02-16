@@ -1,6 +1,7 @@
 StartChar: asciicircum
-Encoding: 94 94 65
+Encoding: 321 94 65
 Width: 470
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

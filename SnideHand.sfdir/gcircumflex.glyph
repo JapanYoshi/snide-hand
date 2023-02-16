@@ -1,6 +1,7 @@
 StartChar: gcircumflex
-Encoding: 285 285 221
+Encoding: 477 285 221
 Width: 521
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

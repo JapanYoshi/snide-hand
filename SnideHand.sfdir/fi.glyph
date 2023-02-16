@@ -1,6 +1,7 @@
 StartChar: fi
-Encoding: 64257 64257 1100
+Encoding: 1356 64257 1100
 Width: 694
+VWidth: 1000
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2

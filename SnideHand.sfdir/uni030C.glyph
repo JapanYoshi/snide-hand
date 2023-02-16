@@ -1,6 +1,7 @@
 StartChar: uni030C
-Encoding: 780 780 521
+Encoding: 777 780 521
 Width: 0
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0

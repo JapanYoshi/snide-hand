@@ -1,6 +1,7 @@
 StartChar: Uhorn
-Encoding: 431 431 321
+Encoding: 577 431 321
 Width: 814
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 309 968 basechar 0
@@ -80,5 +81,5 @@ SplineSet
  638.786070759 1051.30348231 642.141288662 1056.2751192 656 1071 c 0
  666 1081 678 1089 684 1089 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

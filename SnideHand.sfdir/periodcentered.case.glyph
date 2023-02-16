@@ -1,6 +1,7 @@
 StartChar: periodcentered.case
-Encoding: 1114139 -1 1180
+Encoding: 1436 -1 1180
 Width: 192
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

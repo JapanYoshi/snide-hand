@@ -1,6 +1,7 @@
 StartChar: ecircumflex
-Encoding: 234 234 170
+Encoding: 426 234 170
 Width: 509
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

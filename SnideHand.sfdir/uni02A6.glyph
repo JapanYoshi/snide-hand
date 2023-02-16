@@ -1,6 +1,7 @@
 StartChar: uni02A6
-Encoding: 678 678 473
+Encoding: 729 678 473
 Width: 818
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -52,5 +53,5 @@ SplineSet
  436 427 451 464 518 509 c 0
  563 539 592 554 648 554 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,6 +1,7 @@
 StartChar: Lcaron
-Encoding: 317 317 253
+Encoding: 509 317 253
 Width: 670
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -40,5 +41,5 @@ SplineSet
  86 784 86 800 86 828 c 0
  86 848 94 866 104 876 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

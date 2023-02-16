@@ -1,6 +1,7 @@
 StartChar: Udieresis
-Encoding: 220 220 156
+Encoding: 412 220 156
 Width: 650
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 AnchorPoint: "acute" 309 1194 basechar 0

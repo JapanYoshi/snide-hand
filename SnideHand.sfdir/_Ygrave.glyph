@@ -1,6 +1,7 @@
 StartChar: Ygrave
-Encoding: 7922 7922 813
+Encoding: 1069 7922 813
 Width: 660
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

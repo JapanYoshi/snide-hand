@@ -1,6 +1,7 @@
 StartChar: u1045D
-Encoding: 66653 66653 1118
+Encoding: 1374 66653 1118
 Width: 461
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

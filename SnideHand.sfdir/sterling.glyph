@@ -1,6 +1,7 @@
 StartChar: sterling
-Encoding: 163 163 101
+Encoding: 357 163 101
 Width: 696
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

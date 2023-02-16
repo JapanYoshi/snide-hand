@@ -1,6 +1,7 @@
 StartChar: emdash
-Encoding: 8212 8212 1058
+Encoding: 1314 8212 1058
 Width: 872
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

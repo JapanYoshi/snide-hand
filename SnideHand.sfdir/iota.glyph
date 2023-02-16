@@ -1,6 +1,7 @@
 StartChar: iota
-Encoding: 953 953 583
+Encoding: 839 953 583
 Width: 250
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 102 559 basechar 0

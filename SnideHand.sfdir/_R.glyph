@@ -1,6 +1,7 @@
 StartChar: R
-Encoding: 82 82 53
+Encoding: 309 82 53
 Width: 708
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 298 949 basechar 0

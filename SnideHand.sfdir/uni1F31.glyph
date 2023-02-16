@@ -1,6 +1,7 @@
 StartChar: uni1F31
-Encoding: 7985 7985 866
+Encoding: 1122 7985 866
 Width: 250
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

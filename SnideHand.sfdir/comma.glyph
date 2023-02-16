@@ -1,6 +1,7 @@
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 271 44 15
 Width: 182
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

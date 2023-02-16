@@ -1,6 +1,7 @@
 StartChar: eng
-Encoding: 331 331 267
+Encoding: 523 331 267
 Width: 594
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -49,5 +50,5 @@ SplineSet
  371 -324 366 -324 362 -324 c 0
  347 -324 332 -322 317 -317 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

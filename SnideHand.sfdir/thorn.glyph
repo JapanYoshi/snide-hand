@@ -1,6 +1,7 @@
 StartChar: thorn
-Encoding: 254 254 190
+Encoding: 446 254 190
 Width: 560
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -56,5 +57,5 @@ SplineSet
  84 897 91 899 102 899 c 0
  134 899 151 892 151 861 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

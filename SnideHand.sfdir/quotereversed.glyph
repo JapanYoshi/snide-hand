@@ -1,6 +1,7 @@
 StartChar: quotereversed
-Encoding: 8219 8219 1063
+Encoding: 1319 8219 1063
 Width: 260
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

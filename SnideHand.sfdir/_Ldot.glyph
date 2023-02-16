@@ -1,6 +1,7 @@
 StartChar: Ldot
-Encoding: 319 319 255
+Encoding: 511 319 255
 Width: 612
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -35,5 +36,5 @@ SplineSet
  86 784 86 800 86 828 c 0
  86 848 94 866 104 876 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

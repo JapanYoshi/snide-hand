@@ -1,6 +1,7 @@
 StartChar: cedilla
-Encoding: 184 184 120
+Encoding: 376 184 120
 Width: 390
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

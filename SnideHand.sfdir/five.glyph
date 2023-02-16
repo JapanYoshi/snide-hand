@@ -1,6 +1,7 @@
 StartChar: five
-Encoding: 53 53 24
+Encoding: 280 53 24
 Width: 528
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

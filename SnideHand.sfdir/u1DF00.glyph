@@ -1,6 +1,7 @@
 StartChar: u1DF00
-Encoding: 122624 122624 1153
+Encoding: 1409 122624 1153
 Width: 1077
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

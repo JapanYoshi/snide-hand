@@ -1,6 +1,7 @@
 StartChar: zcaron
-Encoding: 382 382 318
+Encoding: 574 382 318
 Width: 522
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

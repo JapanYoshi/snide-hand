@@ -1,6 +1,7 @@
 StartChar: zeta
-Encoding: 950 950 580
+Encoding: 836 950 580
 Width: 588
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

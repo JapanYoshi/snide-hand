@@ -1,6 +1,7 @@
 StartChar: Odieresis
-Encoding: 214 214 150
+Encoding: 406 214 150
 Width: 756
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 AnchorPoint: "acute" 368 1152 basechar 0

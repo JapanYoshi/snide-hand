@@ -1,6 +1,7 @@
 StartChar: u10466
-Encoding: 66662 66662 1127
+Encoding: 1383 66662 1127
 Width: 203
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

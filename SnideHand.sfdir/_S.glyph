@@ -1,6 +1,7 @@
 StartChar: S
-Encoding: 83 83 54
+Encoding: 310 83 54
 Width: 552
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 298 942 basechar 0

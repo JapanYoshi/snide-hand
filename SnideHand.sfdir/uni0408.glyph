@@ -1,6 +1,7 @@
 StartChar: uni0408
-Encoding: 1032 1032 636
+Encoding: 892 1032 636
 Width: 678
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

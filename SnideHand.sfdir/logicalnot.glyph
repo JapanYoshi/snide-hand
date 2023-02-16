@@ -1,6 +1,7 @@
 StartChar: logicalnot
-Encoding: 172 172 108
+Encoding: 364 172 108
 Width: 619
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

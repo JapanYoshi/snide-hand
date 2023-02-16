@@ -1,6 +1,7 @@
 StartChar: Uhungarumlaut
-Encoding: 368 368 304
+Encoding: 560 368 304
 Width: 650
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

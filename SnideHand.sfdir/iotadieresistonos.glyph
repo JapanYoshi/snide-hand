@@ -1,6 +1,7 @@
 StartChar: iotadieresistonos
-Encoding: 912 912 543
+Encoding: 799 912 543
 Width: 250
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -51,5 +52,5 @@ SplineSet
  81 533 96 547 108 547 c 0
  110 547 112 547 114 546 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

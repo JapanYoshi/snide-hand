@@ -1,6 +1,7 @@
 StartChar: Zdotaccent
-Encoding: 379 379 315
+Encoding: 571 379 315
 Width: 786
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

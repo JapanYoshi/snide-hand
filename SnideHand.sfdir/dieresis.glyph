@@ -1,6 +1,7 @@
 StartChar: dieresis
-Encoding: 168 168 104
+Encoding: 360 168 104
 Width: 422
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

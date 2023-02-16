@@ -1,6 +1,7 @@
 StartChar: nu
-Encoding: 957 957 587
+Encoding: 843 957 587
 Width: 561
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 290 567 basechar 0

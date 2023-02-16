@@ -1,6 +1,7 @@
 StartChar: P
-Encoding: 80 80 51
+Encoding: 307 80 51
 Width: 606
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 292 934 basechar 0

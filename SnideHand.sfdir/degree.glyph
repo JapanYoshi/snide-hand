@@ -1,6 +1,7 @@
 StartChar: degree
-Encoding: 176 176 112
+Encoding: 368 176 112
 Width: 336
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

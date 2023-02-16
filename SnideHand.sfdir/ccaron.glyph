@@ -1,6 +1,7 @@
 StartChar: ccaron
-Encoding: 269 269 205
+Encoding: 461 269 205
 Width: 504
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

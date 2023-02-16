@@ -1,6 +1,7 @@
 StartChar: ncaron
-Encoding: 328 328 264
+Encoding: 520 328 264
 Width: 578
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

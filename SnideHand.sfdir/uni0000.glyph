@@ -1,6 +1,7 @@
 StartChar: uni0000
-Encoding: 0 0 1
+Encoding: 257 0 1
 Width: 0
+VWidth: 1000
 Flags: HMW
 LayerCount: 2
 EndChar

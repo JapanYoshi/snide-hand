@@ -1,6 +1,7 @@
 StartChar: OE
-Encoding: 338 338 274
+Encoding: 530 338 274
 Width: 1087
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -73,5 +74,5 @@ SplineSet
  518 683 491 744 469 774 c 0
  442 807 415 825 356 825 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

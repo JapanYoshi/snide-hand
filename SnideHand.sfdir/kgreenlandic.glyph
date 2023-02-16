@@ -1,6 +1,7 @@
 StartChar: kgreenlandic
-Encoding: 312 312 248
+Encoding: 504 312 248
 Width: 496
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

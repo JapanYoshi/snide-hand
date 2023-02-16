@@ -1,6 +1,7 @@
 StartChar: Y
-Encoding: 89 89 60
+Encoding: 316 89 60
 Width: 660
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 332 940 basechar 0

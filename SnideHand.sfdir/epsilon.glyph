@@ -1,6 +1,7 @@
 StartChar: epsilon
-Encoding: 949 949 579
+Encoding: 835 949 579
 Width: 478
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 232 594 basechar 0

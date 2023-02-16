@@ -1,6 +1,7 @@
 StartChar: Epsilon
-Encoding: 917 917 548
+Encoding: 804 917 548
 Width: 682
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -46,5 +47,5 @@ SplineSet
  278 407 222 408 179 412 c 1
  179 368 177 306 177 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

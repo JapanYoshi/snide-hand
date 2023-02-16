@@ -1,6 +1,7 @@
 StartChar: cent
-Encoding: 162 162 100
+Encoding: 356 162 100
 Width: 528
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

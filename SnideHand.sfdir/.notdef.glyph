@@ -1,6 +1,7 @@
 StartChar: .notdef
-Encoding: 1114112 -1 0
+Encoding: 256 -1 0
 Width: 1270
+VWidth: 1000
 Flags: HMW
 LayerCount: 2
 Fore

@@ -1,6 +1,7 @@
 StartChar: uni1FAB
-Encoding: 8107 8107 978
+Encoding: 1234 8107 978
 Width: 1409
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

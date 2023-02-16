@@ -1,6 +1,7 @@
 StartChar: upsilon
-Encoding: 965 965 595
+Encoding: 851 965 595
 Width: 554
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 275 552 basechar 0

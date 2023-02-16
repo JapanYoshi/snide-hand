@@ -1,6 +1,7 @@
 StartChar: uni0270
-Encoding: 624 624 419
+Encoding: 675 624 419
 Width: 890
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 432 594 basechar 0
@@ -46,5 +47,5 @@ SplineSet
  810.857142857 532 816.979591837 505.469387755 816.979591837 473.545189504 c 0
  816.979591837 460.775510204 816 447.142857143 816 434 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,6 +1,7 @@
 StartChar: Ucircumflex
-Encoding: 219 219 155
+Encoding: 411 219 155
 Width: 650
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

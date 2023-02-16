@@ -1,6 +1,7 @@
 StartChar: Z
-Encoding: 90 90 61
+Encoding: 317 90 61
 Width: 786
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 389 979 basechar 0

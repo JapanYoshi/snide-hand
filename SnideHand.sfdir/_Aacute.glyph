@@ -1,6 +1,7 @@
 StartChar: Aacute
-Encoding: 193 193 129
+Encoding: 385 193 129
 Width: 624
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

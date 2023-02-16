@@ -1,6 +1,7 @@
 StartChar: abreve
-Encoding: 259 259 195
+Encoding: 451 259 195
 Width: 533
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

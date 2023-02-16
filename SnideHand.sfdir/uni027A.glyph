@@ -1,6 +1,7 @@
 StartChar: uni027A
-Encoding: 634 634 429
+Encoding: 685 634 429
 Width: 584
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 295 957 basechar 0

@@ -1,6 +1,7 @@
 StartChar: Tcaron
-Encoding: 356 356 292
+Encoding: 548 356 292
 Width: 730
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

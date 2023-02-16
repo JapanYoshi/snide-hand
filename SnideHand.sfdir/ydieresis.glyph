@@ -1,6 +1,7 @@
 StartChar: ydieresis
-Encoding: 255 255 191
+Encoding: 447 255 191
 Width: 582
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

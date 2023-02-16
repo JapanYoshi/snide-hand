@@ -1,6 +1,7 @@
 StartChar: phi
-Encoding: 966 966 596
+Encoding: 852 966 596
 Width: 684
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

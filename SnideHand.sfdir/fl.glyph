@@ -1,6 +1,7 @@
 StartChar: fl
-Encoding: 64258 64258 1101
+Encoding: 1357 64258 1101
 Width: 724
+VWidth: 1000
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2

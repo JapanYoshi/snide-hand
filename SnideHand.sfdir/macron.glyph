@@ -1,6 +1,7 @@
 StartChar: macron
-Encoding: 175 175 111
+Encoding: 367 175 111
 Width: 396
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

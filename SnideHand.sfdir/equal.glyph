@@ -1,6 +1,7 @@
 StartChar: equal
-Encoding: 61 61 32
+Encoding: 288 61 32
 Width: 468
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

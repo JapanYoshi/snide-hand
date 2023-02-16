@@ -1,6 +1,7 @@
 StartChar: lslash
-Encoding: 322 322 258
+Encoding: 514 322 258
 Width: 520
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -44,5 +45,5 @@ SplineSet
  346 525 328 510 319 501 c 0
  306 491 292 479 276 465 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

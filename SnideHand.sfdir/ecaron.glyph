@@ -1,6 +1,7 @@
 StartChar: ecaron
-Encoding: 283 283 219
+Encoding: 475 283 219
 Width: 509
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

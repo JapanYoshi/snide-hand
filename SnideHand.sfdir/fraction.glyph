@@ -1,6 +1,7 @@
 StartChar: fraction
-Encoding: 8260 8260 1083
+Encoding: 1339 8260 1083
 Width: 659
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

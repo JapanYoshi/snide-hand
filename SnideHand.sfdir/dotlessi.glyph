@@ -1,6 +1,7 @@
 StartChar: dotlessi
-Encoding: 305 305 241
+Encoding: 497 305 241
 Width: 252
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 122 620 basechar 0

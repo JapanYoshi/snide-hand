@@ -1,6 +1,7 @@
 StartChar: dieresistonos
-Encoding: 901 901 534
+Encoding: 790 901 534
 Width: 496
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute2acute" 250 501 mark 0
@@ -33,5 +34,5 @@ SplineSet
  204 786 224 820 242 854 c 0
  255 878 287 934 320 934 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

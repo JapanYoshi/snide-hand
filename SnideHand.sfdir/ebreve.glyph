@@ -1,6 +1,7 @@
 StartChar: ebreve
-Encoding: 277 277 213
+Encoding: 469 277 213
 Width: 509
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

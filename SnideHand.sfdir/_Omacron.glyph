@@ -1,6 +1,7 @@
 StartChar: Omacron
-Encoding: 332 332 268
+Encoding: 524 332 268
 Width: 756
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

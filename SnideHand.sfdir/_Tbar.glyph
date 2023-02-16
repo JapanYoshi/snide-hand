@@ -1,6 +1,7 @@
 StartChar: Tbar
-Encoding: 358 358 294
+Encoding: 550 358 294
 Width: 768
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -61,5 +62,5 @@ SplineSet
  444 335 444 337 444 338 c 1
  433 337 422 337 410 336 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

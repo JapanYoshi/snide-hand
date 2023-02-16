@@ -1,6 +1,7 @@
 StartChar: exclamdbl
-Encoding: 8252 8252 1079
+Encoding: 1335 8252 1079
 Width: 478
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: j
-Encoding: 106 106 77
+Encoding: 333 106 77
 Width: 238
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 106 844 basechar 0
@@ -32,6 +33,6 @@ SplineSet
  108 -42 100 -20 90 74 c 0
  80 192 72 370 72 464 c 0
 EndSplineSet
-Kerns2: 12 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 40 -19 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 41 -15 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 44 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 55 -124 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 57 -35 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 58 -19 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 59 -64 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 60 -42 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 61 -28 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 64 -107 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 73 -17 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 87 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -24 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 96 -56 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
+Kerns2: 12 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 40 -19 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 41 -15 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 44 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 55 -124 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 57 -35 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 58 -19 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 59 -64 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 60 -42 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 61 -28 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 64 -107 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 73 -17 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 77 98 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 87 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 94 -24 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 96 -56 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 245 93 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 Substitution2: "'sups' +TgowZDBNZYdbVwAA lookup 4 +MLUw1jDGMPww1jDr" uni02B2
 EndChar

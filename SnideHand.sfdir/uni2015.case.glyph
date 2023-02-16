@@ -1,6 +1,7 @@
 StartChar: uni2015.case
-Encoding: 1114132 -1 1173
+Encoding: 1429 -1 1173
 Width: 980
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

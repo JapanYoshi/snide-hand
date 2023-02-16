@@ -1,6 +1,7 @@
 StartChar: ocircumflex
-Encoding: 244 244 180
+Encoding: 436 244 180
 Width: 536
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: uni2010.case
-Encoding: 1114129 -1 1170
+Encoding: 1426 -1 1170
 Width: 352
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: quotedblright
-Encoding: 8221 8221 1065
+Encoding: 1321 8221 1065
 Width: 554
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: Gcaron
-Encoding: 486 486 346
+Encoding: 602 486 346
 Width: 680
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

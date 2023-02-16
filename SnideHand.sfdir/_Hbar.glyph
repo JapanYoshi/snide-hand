@@ -1,6 +1,7 @@
 StartChar: Hbar
-Encoding: 294 294 230
+Encoding: 486 294 230
 Width: 772
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -77,5 +78,5 @@ SplineSet
  397 426 444 438 496 452 c 0
  513 456 535 463 554 465 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

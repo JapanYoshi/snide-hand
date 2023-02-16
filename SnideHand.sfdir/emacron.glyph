@@ -1,6 +1,7 @@
 StartChar: emacron
-Encoding: 275 275 211
+Encoding: 467 275 211
 Width: 509
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

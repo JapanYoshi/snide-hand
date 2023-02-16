@@ -1,6 +1,7 @@
 StartChar: ampersand
-Encoding: 38 38 9
+Encoding: 265 38 9
 Width: 628
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

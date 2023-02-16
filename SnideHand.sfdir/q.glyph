@@ -1,6 +1,7 @@
 StartChar: q
-Encoding: 113 113 84
+Encoding: 340 113 84
 Width: 570
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 280 586 basechar 0

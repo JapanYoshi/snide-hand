@@ -1,6 +1,7 @@
 StartChar: uni1FC0
-Encoding: 8128 8128 998
+Encoding: 1254 8128 998
 Width: 478
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute2acute" 250 661 mark 0

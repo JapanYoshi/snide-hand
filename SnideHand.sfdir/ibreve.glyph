@@ -1,6 +1,7 @@
 StartChar: ibreve
-Encoding: 301 301 237
+Encoding: 493 301 237
 Width: 252
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: tildecomb
-Encoding: 771 771 513
+Encoding: 769 771 513
 Width: 0
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0

@@ -1,6 +1,7 @@
 StartChar: onequarter
-Encoding: 188 188 124
+Encoding: 380 188 124
 Width: 1036
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

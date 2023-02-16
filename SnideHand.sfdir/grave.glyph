@@ -1,6 +1,7 @@
 StartChar: grave
-Encoding: 96 96 67
+Encoding: 323 96 67
 Width: 326
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

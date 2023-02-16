@@ -1,6 +1,7 @@
 StartChar: parenleft
-Encoding: 40 40 11
+Encoding: 267 40 11
 Width: 396
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

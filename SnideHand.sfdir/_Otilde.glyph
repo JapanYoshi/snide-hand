@@ -1,6 +1,7 @@
 StartChar: Otilde
-Encoding: 213 213 149
+Encoding: 405 213 149
 Width: 756
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 AnchorPoint: "acute" 368 1152 basechar 0

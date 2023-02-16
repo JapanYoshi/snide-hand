@@ -1,6 +1,7 @@
 StartChar: ordmasculine
-Encoding: 186 186 122
+Encoding: 378 186 122
 Width: 518
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: alphatonos
-Encoding: 940 940 570
+Encoding: 826 940 570
 Width: 622
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

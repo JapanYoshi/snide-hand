@@ -1,6 +1,7 @@
 StartChar: ae
-Encoding: 230 230 166
+Encoding: 422 230 166
 Width: 830
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 AnchorPoint: "acute" 396 594 basechar 0

@@ -1,6 +1,7 @@
 StartChar: Ohungarumlaut
-Encoding: 336 336 272
+Encoding: 528 336 272
 Width: 756
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

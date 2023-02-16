@@ -1,6 +1,7 @@
 StartChar: aogonek
-Encoding: 261 261 197
+Encoding: 453 261 197
 Width: 528
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -55,5 +56,5 @@ SplineSet
  483 -16 473 -22 461 -22 c 0
  454 -22 446 -19 437 -15 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

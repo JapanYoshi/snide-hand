@@ -1,6 +1,7 @@
 StartChar: sigma1
-Encoding: 962 962 592
+Encoding: 848 962 592
 Width: 554
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

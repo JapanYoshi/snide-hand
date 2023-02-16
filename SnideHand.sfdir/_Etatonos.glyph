@@ -1,6 +1,7 @@
 StartChar: Etatonos
-Encoding: 905 905 538
+Encoding: 794 905 538
 Width: 915
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -68,5 +69,5 @@ SplineSet
  754 760.8 754.32 777.12 754.32 789.92 c 0
  754.32 809.12 753.6 820.4 750 854 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

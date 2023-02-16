@@ -1,6 +1,7 @@
 StartChar: gcaron
-Encoding: 487 487 347
+Encoding: 603 487 347
 Width: 521
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

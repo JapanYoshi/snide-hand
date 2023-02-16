@@ -1,6 +1,7 @@
 StartChar: guillemotright.case
-Encoding: 1114143 -1 1184
+Encoding: 1440 -1 1184
 Width: 506
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: quotedbl
-Encoding: 34 34 5
+Encoding: 261 34 5
 Width: 414
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

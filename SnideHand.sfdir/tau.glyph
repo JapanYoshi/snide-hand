@@ -1,6 +1,7 @@
 StartChar: tau
-Encoding: 964 964 594
+Encoding: 850 964 594
 Width: 520
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

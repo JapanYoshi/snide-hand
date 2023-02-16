@@ -1,6 +1,7 @@
 StartChar: Epsilontonos
-Encoding: 904 904 537
+Encoding: 793 904 537
 Width: 880
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -56,5 +57,5 @@ SplineSet
  74 756 94 790 112 824 c 0
  125 848 157 904 190 904 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

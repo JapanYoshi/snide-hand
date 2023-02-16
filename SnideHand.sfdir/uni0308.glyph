@@ -1,6 +1,7 @@
 StartChar: uni0308
-Encoding: 776 776 517
+Encoding: 773 776 517
 Width: 0
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0
@@ -29,5 +30,5 @@ SplineSet
  -198 1022 -210 1038 -210 1058 c 0
  -210 1078 -196 1086 -176 1086 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

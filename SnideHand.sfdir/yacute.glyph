@@ -1,6 +1,7 @@
 StartChar: yacute
-Encoding: 253 253 189
+Encoding: 445 253 189
 Width: 582
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

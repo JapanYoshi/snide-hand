@@ -1,6 +1,7 @@
 StartChar: ohorn
-Encoding: 417 417 320
+Encoding: 576 417 320
 Width: 586
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 266 574 basechar 0
@@ -65,5 +66,5 @@ SplineSet
  360.5 448 362 456 365 464 c 1
  355 475 341 488 323 488 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

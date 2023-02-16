@@ -1,6 +1,7 @@
 StartChar: cdotaccent
-Encoding: 267 267 203
+Encoding: 459 267 203
 Width: 504
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

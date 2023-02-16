@@ -1,6 +1,7 @@
 StartChar: asterisk
-Encoding: 42 42 13
+Encoding: 269 42 13
 Width: 460
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

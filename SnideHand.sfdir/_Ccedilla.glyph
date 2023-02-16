@@ -1,6 +1,7 @@
 StartChar: Ccedilla
-Encoding: 199 199 135
+Encoding: 391 199 135
 Width: 720
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

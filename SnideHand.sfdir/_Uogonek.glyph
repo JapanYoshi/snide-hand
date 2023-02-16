@@ -1,6 +1,7 @@
 StartChar: Uogonek
-Encoding: 370 370 306
+Encoding: 562 370 306
 Width: 748
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -47,5 +48,5 @@ SplineSet
  374.673427653 -165.252407558 371.942897909 -141.003220262 371.942897909 -116.663509645 c 0
  371.942897909 -79.4477130246 378.326572347 -42.0202829597 388 -13 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,6 +1,7 @@
 StartChar: Utilde
-Encoding: 360 360 296
+Encoding: 552 360 296
 Width: 650
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

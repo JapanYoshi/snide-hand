@@ -1,6 +1,7 @@
 StartChar: hookabovecomb
-Encoding: 777 777 518
+Encoding: 774 777 518
 Width: 0
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "ogonek2ogonek" 0 0 basemark 0

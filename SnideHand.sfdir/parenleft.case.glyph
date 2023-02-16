@@ -1,6 +1,7 @@
 StartChar: parenleft.case
-Encoding: 1114133 -1 1174
+Encoding: 1430 -1 1174
 Width: 396
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

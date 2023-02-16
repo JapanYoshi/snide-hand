@@ -1,6 +1,7 @@
 StartChar: numbersign
-Encoding: 35 35 6
+Encoding: 262 35 6
 Width: 536
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

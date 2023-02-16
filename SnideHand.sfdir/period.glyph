@@ -1,6 +1,7 @@
 StartChar: period
-Encoding: 46 46 17
+Encoding: 273 46 17
 Width: 236
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: emdash.case
-Encoding: 1114131 -1 1172
+Encoding: 1428 -1 1172
 Width: 872
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

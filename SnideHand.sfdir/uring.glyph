@@ -1,6 +1,7 @@
 StartChar: uring
-Encoding: 367 367 303
+Encoding: 559 367 303
 Width: 560
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

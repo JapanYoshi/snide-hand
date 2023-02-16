@@ -1,6 +1,7 @@
 StartChar: dcroat
-Encoding: 273 273 209
+Encoding: 465 273 209
 Width: 600
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -66,5 +67,5 @@ SplineSet
  273 255 292 305 300 364 c 0
  301 370 301 376 302 382 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

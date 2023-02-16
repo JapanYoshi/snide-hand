@@ -1,6 +1,7 @@
 StartChar: eogonek
-Encoding: 281 281 217
+Encoding: 473 281 217
 Width: 518
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -39,5 +40,5 @@ SplineSet
  279 349 376 405 376 433 c 0
  376 458 356 482 332 482 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

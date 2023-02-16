@@ -1,6 +1,7 @@
 StartChar: omega
-Encoding: 969 969 599
+Encoding: 855 969 599
 Width: 726
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 351 572 basechar 0

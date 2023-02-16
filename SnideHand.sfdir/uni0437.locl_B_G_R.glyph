@@ -1,6 +1,7 @@
 StartChar: uni0437.loclBGR
-Encoding: 1114121 -1 1162
+Encoding: 1418 -1 1162
 Width: 564
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

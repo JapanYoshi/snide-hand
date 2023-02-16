@@ -1,6 +1,7 @@
 StartChar: Mu
-Encoding: 924 924 555
+Encoding: 811 924 555
 Width: 882
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -51,5 +52,5 @@ SplineSet
  78 279 77.5 330 77.5 377.5 c 0
  77.5 425 78 469 78 510 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

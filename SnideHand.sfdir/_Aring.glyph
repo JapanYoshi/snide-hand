@@ -1,6 +1,7 @@
 StartChar: Aring
-Encoding: 197 197 133
+Encoding: 389 197 133
 Width: 566
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 AnchorPoint: "acute" 248 1082 basechar 0

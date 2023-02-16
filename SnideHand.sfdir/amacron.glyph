@@ -1,6 +1,7 @@
 StartChar: amacron
-Encoding: 257 257 193
+Encoding: 449 257 193
 Width: 533
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

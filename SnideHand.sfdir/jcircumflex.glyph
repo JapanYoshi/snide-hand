@@ -1,10 +1,12 @@
 StartChar: jcircumflex
-Encoding: 309 309 245
+Encoding: 501 309 245
 Width: 234
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
 Refer: 512 770 N 1 0 0 1 422 -302 2
 Refer: 386 567 N 1 0 0 1 0 0 3
+Kerns2: 77 112 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 245 216 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

@@ -1,6 +1,7 @@
 StartChar: imacron
-Encoding: 299 299 235
+Encoding: 491 299 235
 Width: 252
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

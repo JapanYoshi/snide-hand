@@ -1,6 +1,7 @@
 StartChar: agrave
-Encoding: 224 224 160
+Encoding: 416 224 160
 Width: 533
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: gbreve
-Encoding: 287 287 223
+Encoding: 479 287 223
 Width: 521
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

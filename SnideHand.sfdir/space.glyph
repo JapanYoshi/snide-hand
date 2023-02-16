@@ -1,6 +1,7 @@
 StartChar: space
-Encoding: 32 32 3
+Encoding: 259 32 3
 Width: 300
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

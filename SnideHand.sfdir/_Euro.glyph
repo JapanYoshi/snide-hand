@@ -1,6 +1,7 @@
 StartChar: Euro
-Encoding: 8364 8364 1090
+Encoding: 1346 8364 1090
 Width: 840
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

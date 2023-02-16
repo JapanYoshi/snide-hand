@@ -1,6 +1,7 @@
 StartChar: Ugrave
-Encoding: 217 217 153
+Encoding: 409 217 153
 Width: 650
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

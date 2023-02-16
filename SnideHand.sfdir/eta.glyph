@@ -1,6 +1,7 @@
 StartChar: eta
-Encoding: 951 951 581
+Encoding: 837 951 581
 Width: 540
+VWidth: 1000
 GlyphClass: 4
 Flags: HMW
 AnchorPoint: "acute" 262 594 basechar 0

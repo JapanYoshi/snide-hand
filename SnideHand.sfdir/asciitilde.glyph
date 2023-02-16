@@ -1,6 +1,7 @@
 StartChar: asciitilde
-Encoding: 126 126 97
+Encoding: 353 126 97
 Width: 490
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: guilsinglright
-Encoding: 8250 8250 1078
+Encoding: 1334 8250 1078
 Width: 396
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: Scircumflex
-Encoding: 348 348 284
+Encoding: 540 348 284
 Width: 552
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

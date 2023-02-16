@@ -1,6 +1,7 @@
 StartChar: perthousand
-Encoding: 8240 8240 1076
+Encoding: 1332 8240 1076
 Width: 1219
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

@@ -1,6 +1,7 @@
 StartChar: braceleft
-Encoding: 123 123 94
+Encoding: 350 123 94
 Width: 458
+VWidth: 1000
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2

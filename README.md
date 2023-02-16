@@ -8,7 +8,7 @@ Making this font is a huge undertaking, and it may never be truly complete. It c
 
 ## Known issues
 
-* **Corrupted kerning table.** The first row of each kerning column has to be `All others`, but somehow, the `All others` row has been deleted, and I can't add it back. Consequently, the letter spacing is all screwed up when exported on Windows.
+* **Kerning is straight-up broken.** I tried using a table of kerning classes, but somehow the first column stopped being `{All others}` with no way to correct it. Then I begrudgingly deleted the table and started over with a list of kerning pairs, but pairs kept randomly refusing to work in the preview window, and trying to rekern them added duplicate entries in the table. And whatever I did with the kerning pairs, if I exported as an OpenType font file, the letters got all scrunched up and everything. I have no earthly idea what is going on with the font, and I am officially lost.
 
 ## Features
 
@@ -38,4 +38,4 @@ The project file is stored as [the `./SnideHand.sfdir` directory](./SnideHand.sf
 
 ## Acknowledgments
 
-Thank you to [Local Fonts](https://localfonts.eu) for helping me troubleshoot an issue with corrupted kerning.
+Thank you to [Local Fonts](https://localfonts.eu) for helping me troubleshoot an issue with corrupted kerning (although it didn't work out in the end).
