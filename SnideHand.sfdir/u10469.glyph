@@ -1,6 +1,6 @@
 StartChar: u10469
 Encoding: 1386 66665 1130
-Width: 378
+Width: 386
 VWidth: 1000
 GlyphClass: 2
 Flags: HMW
@@ -8,19 +8,20 @@ LayerCount: 2
 Fore
 SplineSet
 198 561 m 0
- 211 561 242 559 267 548 c 0
- 316 523 348 514 348 467 c 0
- 348 439 339 437 325 437 c 0
- 306 437 302 438 285 445 c 0
- 262 455 252 480 208 480 c 0
- 197 480 178 471 168 460 c 0
- 145 433 139 335 139 297 c 0
- 139 200 146 140 153 115 c 0
- 156 104 160 87 160 60 c 0
- 160 22 150 1 122 1 c 0
+ 211 561 253.60760865 558.061136195 279 548 c 0
+ 332 527 356 514 356 467 c 0
+ 356 439 347 437 333 437 c 0
+ 314 437 310 438 293 445 c 0
+ 270 455 260 480 216 480 c 4
+ 205 480 186 471 176 460 c 4
+ 153 433 147 331 147 293 c 0
+ 147 196 154 140 161 115 c 0
+ 164 104 168 87 168 60 c 0
+ 168 22 150 1 122 1 c 0
  109 1 95 12 84 31 c 0
  73 52 60 164 60 293 c 0
  60 337 64 423 82 466 c 0
  103 515 137 561 198 561 c 0
 EndSplineSet
+Kerns2: 34 -38 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1105 -260 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1108 -167 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1109 -49 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1110 -78 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1112 -22 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1113 -121 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1114 -60 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1119 -28 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1123 -250 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1126 -121 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1129 -144 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1133 -91 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1141 -30 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1142 -83 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1145 -53 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1147 -105 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1149 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1152 -15 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

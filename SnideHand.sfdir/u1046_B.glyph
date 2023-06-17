@@ -7,24 +7,25 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-199 302 m 0
- 211 269 244 195 265 165 c 1
- 286 213 297 257 322 303 c 0
- 350 354 377 399 404 436 c 0
- 455 508 503 571 509 575 c 0
+196 302 m 0
+ 208 269 247 172 268 142 c 1
+ 289 190 309.803710938 257.107421875 332 303 c 0
+ 357.33203125 355.375976562 383 399 410 436 c 0
+ 461 508 503 571 509 575 c 0
  517 581 522 583 530 583 c 0
  551 583 562 571 562 550 c 0
  562 520 543 480 507 429 c 0
- 486 399 440 338 417 298 c 0
- 389 249 365 190 357 163 c 0
- 347 131 313 39 302 22 c 0
+ 486 399 446 338 423 298 c 0
+ 395 249 369 188 361 161 c 4
+ 351 129 313 39 302 22 c 0
  294 9 285 3 275 3 c 0
  269 3 256 5 241 18 c 0
  211 43 199 85 169 136 c 0
  144 178 51 448 32 465 c 0
  26 471 24 479 24 492 c 0
  24 522 43 533 70 533 c 0
- 102 533 109 515 119 492 c 0
- 136 454 180 351 199 302 c 0
+ 102 533 106 515 116 492 c 0
+ 133 454 178.040039062 351.390625 196 302 c 0
 EndSplineSet
+Kerns2: 17 -83 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 119 -68 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1105 -258 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1106 -27 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1107 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1108 -108 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1109 -69 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1110 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1112 -44 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1113 -144 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1114 -75 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1117 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1118 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1119 -59 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1123 -303 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1125 -60 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1126 -121 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1129 -143 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1130 -45 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1133 -75 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1141 -61 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1142 -113 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1143 -30 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1145 -68 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1147 -106 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1149 -144 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar

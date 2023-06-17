@@ -9,11 +9,11 @@ Fore
 SplineSet
 138 528 m 0
  165 547 197 558 210 558 c 0
- 261 558 307 529 322 480 c 0
- 335 438 336 368 336 210 c 0
- 336 193.5 335.9375 179.3125 335.9375 167.078125 c 0
- 335.9375 130.375 336.5 111.25 341 100 c 0
- 349 89 357 72 357 49 c 0
+ 261 558 312 529 327 480 c 4
+ 340 438 341 368 341 210 c 4
+ 341 193.5 340.9375 179.3125 340.9375 167.078125 c 4
+ 340.9375 130.375 341.5 111.25 346 100 c 4
+ 354 89 357 72 357 49 c 0
  357 15 331 -8 303 -8 c 0
  290 -8 281 -3 270 24 c 0
  257 54 257 90 257 162 c 0
@@ -25,4 +25,5 @@ SplineSet
  67 403 35 419 35 437 c 0
  35 454 70 479 138 528 c 0
 EndSplineSet
+Kerns2: 10 -98 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 34 -46 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1105 -299 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1106 -48 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1110 -39 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1112 -51 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1113 -174 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1123 -189 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1124 -37 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1131 -22 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1" 1152 -53 "'kern' +aipm+DBNMKsw/DDLMPMwsAAA lookup 0-1"
 EndChar
